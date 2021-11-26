@@ -1,0 +1,8 @@
+# macOS hidden folder info/cache files
+.DS_Store
+
+*.pdf
+
+.idea
+__pycache__
+venv
